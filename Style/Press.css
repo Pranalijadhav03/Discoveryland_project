@@ -1,0 +1,231 @@
+.header{
+    width: 100%;
+    
+}
+
+.slider{
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background-image: url(../assets/press1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-start;
+    justify-content: flex-end;
+    }
+ .slider img{
+    position: relative;
+    top: 50px;
+    left: 90px;
+   
+ }
+
+.fixed-bottom{
+background-color: #161f1e;
+ padding: 200px;
+ color: white;
+ display: flex;
+ right: 0;
+ bottom: 0;
+ align-items: flex-start;
+ justify-content: space-between;
+ height: 30%;
+}
+
+ul li{
+    list-style: none;
+    align-items: center;
+}
+
+.top-nav a{
+    position: relative;
+color: white;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 25px;
+display: flex;
+align-items: center;
+top: 50px;
+right:160px;
+
+}
+
+.top-nav{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    right:0;
+        
+}
+
+
+.header img{
+    background-color: none;
+    background: transparent;
+    float: left;
+    width: 200px;
+    height:50px;
+    margin-right:90px;
+    position: relative;
+    border: 2px ;
+}
+
+.header a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.centered{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    color: white;
+    font-size: 46px;
+    line-height: 4px;
+   
+}
+
+.fixed-bottom img{
+    border:2px ;
+    background-color: transparent;
+}
+
+.footer-1{
+    display: flex;
+    flex-direction: row;
+    width:30%;
+    
+}
+
+.o-h3{
+    position: relative;
+    bottom: 40%;
+    width: 100%;
+    height: 100px;
+    left: 10%;
+    font-size: 20px;
+    
+}
+
+.section3{
+    display: flex;
+    background-color:rgb(231, 230, 230);
+    height: 140vh;
+    margin-left: auto;
+margin-right: auto;
+display: flex;
+align-items: center;
+    
+}  
+
+.Outdoor{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.text-card{
+    position: absolute;
+   background-color: white;
+    width: 550px;
+    height: 500px;
+    right: 50px;
+ padding: 10px;
+ margin-top: 10%;
+ 
+}
+
+.text-card h1{
+    position: relative;
+    top: 20px ;
+    left:5%;
+    width: 90%;
+    
+}
+
+.text-card p{
+    font-size: 20px;
+    left:5%;
+    position: relative;
+    top: 60px ;
+    width: 500px;
+    height: 100px;
+    color: rgb(87, 87, 87);
+    
+}
+
+
+.button{
+    position: relative;
+    margin-top: 150px;
+    left: 200px;
+    width: 30%;
+    height: 60px;
+    size: 1000px;
+    background-color: white;
+     border: 2px solid black;
+
+       }
+
+
+       .outerdiv{
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: white;
+       
+     }
+     
+     .innerdiv{
+         height: 300px;
+         width: 35%;
+        
+     }
+     
+     
+     .button1{
+        position: relative;
+         top: 40px;
+        left: 20px;
+        width: 30%;
+        height: 50px;
+        size: 1000px;
+        background-color: white;
+         border: 2px solid black;
+    
+           }
+
+
+           
+           .title{
+            font-size: 20px;
+            position: relative;
+            bottom: 40%;
+            width: 50%;
+            height:50px;
+            left: 8%;
+
+        }
+        
+        .head {
+            size: 2cm;
+            font-weight: 100;
+            font-family: Arial;
+            font-size: 24px;
+              /* color: #000; */
+              color: rgb(87, 87, 87);
+        
+        }
+
+        
